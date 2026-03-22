@@ -1,0 +1,9 @@
+psutil==5.9.4
+firebase-admin==6.2.0
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+GPUtil==1.4.0
+wmi==1.5.1
+pytest==7.4.2
